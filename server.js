@@ -5,6 +5,10 @@ var fs = require('fs');
 var rootUrl = "http://developer.mozilla.org/zh-CN/docs/Web/HTML/Element";
 var result = {};
 
+for(var i=1;i<7;i++){
+	result["h"+i] = {};
+}
+
 superagent
 	.get(rootUrl)
 	.end(function(err, res){
