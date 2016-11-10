@@ -1,0 +1,611 @@
+{
+  "section": {},
+  "multicol": {},
+  "head": {
+    "profile": 1
+  },
+  "em": {},
+  "hgroup": {},
+  "map": {
+    "name": 1
+  },
+  "object": {
+    "archive": 1,
+    "border": 1,
+    "classid": 1,
+    "codebase": 1,
+    "codetype": 1,
+    "data": 1,
+    "declare": 1,
+    "form": 1,
+    "height": 1,
+    "name": 1,
+    "standby": 1,
+    "tabindex": 1,
+    "type": 1,
+    "usemap": 1,
+    "width": 1
+  },
+  "legend": {},
+  "param": {
+    "name": 1,
+    "type": 1,
+    "value": 1,
+    "valuetype": 1
+  },
+  "caption": {
+    "align": 1
+  },
+  "q": {
+    "cite": 1
+  },
+  "sup": {},
+  "dialog": {
+    "open": 1
+  },
+  "element": {},
+  "template": {},
+  "dfn": {},
+  "samp": {},
+  "frame": {
+    "src": 1,
+    "name": 1,
+    "noresize": 1,
+    "scrolling": 1,
+    "marginheight": 1,
+    "marginwidth": 1,
+    "frameborder": 1
+  },
+  "plaintext": {},
+  "strike": {},
+  "s": {},
+  "style": {},
+  "html": {
+    "manifest": 1,
+    "version": 1,
+    "xmlns": 1
+  },
+  "applet": {
+    "align": 1,
+    "alt": 1,
+    "archive": 1,
+    "code": 1,
+    "codebase": 1,
+    "datafld": 1,
+    "datasrc": 1,
+    "height": 1,
+    "hspace": 1,
+    "mayscript": 1,
+    "name": 1,
+    "object": 1,
+    "src": 1,
+    "vspace": 1,
+    "width": 1
+  },
+  "nav": {},
+  "area": {
+    "accesskey": 1,
+    "alt": 1,
+    "coords": 1,
+    "download": 1,
+    "href": 1,
+    "hreflang": 1,
+    "name": 1,
+    "media": 1,
+    "nohref": 1,
+    "rel": 1,
+    "shape": 1,
+    "tabindex": 1,
+    "target": 1,
+    "type": 1
+  },
+  "center": {},
+  "font": {
+    "color": 1,
+    "face": 1,
+    "size": 1
+  },
+  "content": {},
+  "menuitem": {
+    "checked": 1,
+    "command": 1,
+    "default": 1,
+    "disabled": 1,
+    "icon": 1,
+    "label": 1,
+    "radiogroup": 1,
+    "type": 1
+  },
+  "colgroup": {
+    "align": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "span": 1,
+    "valign": 1,
+    "width": 1
+  },
+  "_": {
+    "accesskey": 1,
+    "class": 1,
+    "contenteditable": 1,
+    "contextmenu": 1,
+    "dataset": 1,
+    "dir": 1,
+    "draggable": 1,
+    "dropzone": 1,
+    "hidden": 1,
+    "id": 1,
+    "itemid": 1,
+    "itemprop": 1,
+    "itemref": 1,
+    "itemscope": 1,
+    "itemtype": 1,
+    "lang": 1,
+    "spellcheck": 1,
+    "style": 1,
+    "tabindex": 1,
+    "title": 1,
+    "translate": 1
+  },
+  "frameset": {
+    "cols": 1,
+    "rows": 1
+  },
+  "meta": {
+    "charset": 1,
+    "content": 1,
+    "http-equiv": 1,
+    "name": 1,
+    "scheme": 1
+  },
+  "keygen": {
+    "autofocus": 1,
+    "challenge": 1,
+    "disabled": 1,
+    "form": 1,
+    "keytype": 1,
+    "name": 1
+  },
+  "a": {
+    "download": 1,
+    "href": 1,
+    "hreflang": 1,
+    "media": 1,
+    "ping": 1,
+    "referrer": 1,
+    "rel": 1,
+    "target": 1,
+    "type": 1,
+    "charset": 1,
+    "coords": 1,
+    "name": 1,
+    "rev": 1,
+    "shape": 1,
+    "datafld": 1,
+    "datasrc": 1,
+    "urn": 1
+  },
+  "dd": {
+    "nowrap": 1
+  },
+  "nextid": {
+    "n": 1
+  },
+  "source": {
+    "sizes": 1,
+    "src": 1,
+    "srcset": 1,
+    "type": 1,
+    "media": 1
+  },
+  "link": {
+    "charset": 1,
+    "crossorigin": 1,
+    "disabled": 1,
+    "href": 1,
+    "hreflang": 1,
+    "integrity": 1,
+    "media": 1,
+    "methods": 1,
+    "rel": 1,
+    "rev": 1,
+    "sizes": 1,
+    "target": 1,
+    "type": 1
+  },
+  "label": {
+    "accesskey": 1,
+    "for": 1,
+    "form": 1
+  },
+  "abbr": {},
+  "u": {},
+  "audio": {
+    "autoplay": 1,
+    "autobuffer": 1,
+    "buffered": 1,
+    "controls": 1,
+    "loop": 1,
+    "mozCurrentSampleOffset": 1,
+    "muted": 1,
+    "played": 1,
+    "preload": 1,
+    "src": 1,
+    "volume": 1
+  },
+  "noembed": {},
+  "td": {
+    "abbr": 1,
+    "align": 1,
+    "axis": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "colspan": 1,
+    "headers": 1,
+    "rowspan": 1,
+    "scope": 1,
+    "valign": 1,
+    "width": 1
+  },
+  "script": {
+    "async": 1,
+    "src": 1,
+    "type": 1,
+    "language": 1,
+    "defer": 1,
+    "crossorigin": 1
+  },
+  "optgroup": {
+    "disabled": 1,
+    "label": 1
+  },
+  "footer": {},
+  "datalist": {},
+  "aside": {},
+  "mark": {},
+  "article": {},
+  "code": {},
+  "title": {},
+  "address": {},
+  "p": {},
+  "rp": {},
+  "div": {},
+  "figcaption": {},
+  "hr": {
+    "align": 1,
+    "color": 1,
+    "noshade": 1,
+    "size": 1,
+    "width": 1
+  },
+  "dt": {},
+  "ruby": {},
+  "b": {},
+  "span": {},
+  "col": {
+    "align": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "span": 1,
+    "valign": 1,
+    "width": 1
+  },
+  "menu": {
+    "label": 1,
+    "type": 1
+  },
+  "basefont": {
+    "color": 1,
+    "face": 1,
+    "size": 1
+  },
+  "acronym": {},
+  "command": {
+    "checked": 1,
+    "disabled": 1,
+    "icon": 1,
+    "label": 1,
+    "radiogroup": 1,
+    "type": 1
+  },
+  "xmp": {},
+  "option": {
+    "disabled": 1,
+    "label": 1,
+    "selected": 1,
+    "value": 1
+  },
+  "select": {},
+  "figure": {},
+  "main": {},
+  "li": {
+    "value": 1,
+    "type": 1
+  },
+  "bdo": {
+    "dir": 1
+  },
+  "cite": {},
+  "textarea": {
+    "autocapitalize": 1,
+    "autocomplete": 1,
+    "autofocus": 1,
+    "cols": 1,
+    "disabled": 1,
+    "form": 1,
+    "maxlength": 1,
+    "minlength": 1,
+    "name": 1,
+    "placeholder": 1,
+    "readonly": 1,
+    "required": 1,
+    "rows": 1,
+    "selectionDirection": 1,
+    "selectionEnd": 1,
+    "selectionStart": 1,
+    "spellcheck": 1,
+    "wrap": 1
+  },
+  "fieldset": {
+    "disabled": 1,
+    "form": 1,
+    "fieldset": 1,
+    "ID": 1,
+    "name": 1
+  },
+  "canvas": {
+    "height": 1,
+    "moz-opaque": 1,
+    "width": 1
+  },
+  "listing": {},
+  "rtc": {},
+  "pre": {
+    "cols": 1,
+    "width": 1,
+    "wrap": 1
+  },
+  "ins": {
+    "cite": 1,
+    "datetime": 1
+  },
+  "spacer": {},
+  "tfoot": {
+    "align": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "valign": 1
+  },
+  "output": {
+    "for": 1,
+    "form": 1,
+    "name": 1
+  },
+  "isindex": {
+    "prompt": 1,
+    "action": 1
+  },
+  "ol": {
+    "compact": 1,
+    "reversed": 1,
+    "start": 1,
+    "type": 1
+  },
+  "summary": {},
+  "dl": {
+    "compact": 1
+  },
+  "h1": {},
+  "time": {
+    "datetime": 1,
+    "pubdate": 1
+  },
+  "img": {
+    "align": 1,
+    "alt": 1,
+    "border": 1,
+    "crossorigin": 1,
+    "height": 1,
+    "hspace": 1,
+    "ismap": 1,
+    "longdesc": 1,
+    "name": 1,
+    "sizes": 1,
+    "src": 1,
+    "srcset": 1,
+    "width": 1,
+    "usemap": 1,
+    "vspace": 1
+  },
+  "tr": {
+    "align": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "valign": 1
+  },
+  "noscript": {},
+  "sub": {},
+  "header": {},
+  "i": {},
+  "ul": {
+    "compact": 1,
+    "type": 1
+  },
+  "video": {
+    "autoplay": 1,
+    "autobuffer": 1,
+    "buffered": 1,
+    "controls": 1,
+    "crossorigin": 1,
+    "height": 1,
+    "loop": 1,
+    "muted": 1,
+    "played": 1,
+    "preload": 1,
+    "poster": 1,
+    "src": 1,
+    "width": 1
+  },
+  "br": {
+    "clear": 1
+  },
+  "big": {},
+  "shadow": {},
+  "details": {
+    "open": 1
+  },
+  "marquee": {
+    "behavior": 1,
+    "bgcolor": 1,
+    "direction": 1,
+    "height": 1,
+    "hspace": 1,
+    "loop": 1,
+    "scrollamount": 1,
+    "scrolldelay": 1,
+    "truespeed": 1,
+    "vspace": 1,
+    "width": 1,
+    "onbounce": 1,
+    "onfinish": 1,
+    "onstart": 1
+  },
+  "track": {
+    "default": 1,
+    "kind": 1,
+    "label": 1,
+    "src": 1,
+    "srclang": 1
+  },
+  "del": {
+    "cite": 1,
+    "datetime": 1
+  },
+  "tt": {},
+  "small": {},
+  "var": {},
+  "data": {},
+  "kbd": {},
+  "form": {
+    "accept": 1,
+    "accept-charset": 1,
+    "action": 1,
+    "autocapitalize": 1,
+    "autocomplete": 1,
+    "enctype": 1,
+    "method": 1,
+    "name": 1,
+    "novalidate": 1,
+    "target": 1
+  },
+  "th": {
+    "abbr": 1,
+    "align": 1,
+    "axis": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "colspan": 1,
+    "headers": 1,
+    "rowspan": 1,
+    "scope": 1,
+    "valign": 1,
+    "width": 1
+  },
+  "table": {
+    "align": 1,
+    "bgcolor": 1,
+    "border": 1,
+    "cellpadding": 1,
+    "cellspacing": 1,
+    "frame": 1,
+    "rules": 1,
+    "summary": 1,
+    "width": 1
+  },
+  "embed": {
+    "height": 1,
+    "src": 1,
+    "type": 1,
+    "width": 1
+  },
+  "strong": {},
+  "base": {
+    "href": 1,
+    "target": 1
+  },
+  "button": {},
+  "wbr": {},
+  "blink": {},
+  "tbody": {
+    "align": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "valign": 1
+  },
+  "rt": {},
+  "bdi": {},
+  "progress": {},
+  "dir": {},
+  "input": {
+    "type": 1,
+    "accept": 1,
+    "accesskey": 1,
+    "mozactionhint": 1,
+    "autocapitalize": 1,
+    "autocomplete": 1,
+    "autofocus": 1,
+    "autosave": 1,
+    "checked": 1,
+    "disabled": 1,
+    "form": 1,
+    "formaction": 1,
+    "formenctype": 1,
+    "formmethod": 1,
+    "formnovalidate": 1,
+    "formtarget": 1,
+    "height": 1,
+    "list": 1,
+    "max": 1,
+    "maxlength": 1,
+    "min": 1,
+    "multiple": 1,
+    "name": 1,
+    "pattern": 1,
+    "placeholder": 1,
+    "readonly": 1,
+    "required": 1,
+    "selectionDirection": 1,
+    "size": 1,
+    "spellcheck": 1,
+    "src": 1,
+    "step": 1,
+    "tabindex": 1,
+    "usemap": 1,
+    "value": 1,
+    "width": 1,
+    "x-moz-errormessage": 1
+  },
+  "meter": {
+    "value": 1,
+    "min": 1,
+    "max": 1,
+    "low": 1,
+    "high": 1,
+    "optimum": 1,
+    "form": 1
+  },
+  "thead": {
+    "align": 1,
+    "bgcolor": 1,
+    "char": 1,
+    "charoff": 1,
+    "valign": 1
+  }
+}

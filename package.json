@@ -1,0 +1,9 @@
+{
+	"name": "spider",
+	"version": "1.0.0",
+	"description": "",
+	"dependencies": {
+		"superagent": "^2.3.0",
+		"cheerio": "^0.22.0"
+	}
+}
