@@ -2,7 +2,7 @@ var superagent = require('superagent');
 var cheerio = require('cheerio');
 var fs = require('fs');
 
-var rootUrl = "http://www.w3.org/TR/CSS22/propidx.html";
+var rootUrl = "https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference";
 var result = {};
 
 superagent
@@ -14,16 +14,12 @@ superagent
 
 		var $ = cheerio.load(res.text);
 
-		$("span").each(function(index, item){
+		$("ul li a code").each(function(index, item){
 			var $item = $(item);
-			
-			if($item.attr("class").indexOf("xref")>-1){
-				var className = $item.attr("class").replace(/propinst-/g,"").replace(/ xref/g,"");
-				result[className] = 1;
-				console.log(className);
-				
-				fs.writeFile( 'css.json', JSON.stringify( result, null, 2 ), 'utf8' );
-			}
+			result[$item.html()] = 1;
+
+			console.log($item.html());
+			fs.writeFile( 'css.json', JSON.stringify( result, null, 2 ), 'utf8' );
 		});
 	});
 
